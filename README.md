@@ -1,0 +1,2 @@
+- just getting introduced to MLOps tools
+- appparently more beneficial when applying for ML industry roles
