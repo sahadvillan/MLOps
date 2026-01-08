@@ -15,3 +15,4 @@ def my_pipeline():
 
 if __name__ == "__main__":
     my_pipeline()
+    print("Pipeline executed successfully.")
