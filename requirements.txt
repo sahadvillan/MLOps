@@ -1,0 +1,9 @@
+zenml[local]==0.93.0
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+catboost
+optuna
+streamlit
